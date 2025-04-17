@@ -30,7 +30,7 @@ async (conn, mek, m, { from, reply }) => {
 *DESCRIPTION:* ${data.description || 'No description'}
 *REPO LINK:* ${data.html_url}
 
-> *Powered by pkdriller*
+> *Powered by 𝙱.𝙼.𝙱-𝚇𝙼𝙳*
         `.trim();
 
         reply(message);
