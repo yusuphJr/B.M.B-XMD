@@ -2,14 +2,14 @@ const config = require('../config');
 const { cmd } = require('../command');
 
 cmd({
-    pattern: "repo",
+    pattern: "repo4",
     alias: ["sc", "script", "info"],
     desc: "Fetch information about a GitHub repository.",
     category: "info",
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/pkdriller/NEXUS-XMD';
+    const githubRepoURL = 'https://github.com/bmbxmd/B.M.B-XMD';
 
     try {
         const match = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
