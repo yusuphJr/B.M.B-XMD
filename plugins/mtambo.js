@@ -30,8 +30,7 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐁.𝐌.𝐁-𝐗𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!🇹🇿🇹🇿* 
-        
+        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐁.𝐌.𝐁-𝐗𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!🇹🇿🇹🇿*
 ╭══════════════⊷❍    
 ┃ 🌟 *𝐁.𝐌.𝐁-𝐗𝐌𝐃 REPOSITORY* 🌟   
 ┃ ❏ 𝗡𝗮𝗺𝗲: *${repo.name}*    
@@ -46,7 +45,6 @@ async (conn, mek, m, { from, reply }) => {
 ┃ ❏ 𝗥𝗲𝗽𝗼 𝗟𝗶𝗻𝗸: 🔗 [Click Here](${repo.html_url})    
 ╰══════════════⊷❍    
         `;    /
-
          Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
             image: { url: `https://files.catbox.moe/heu4tc.png` },
