@@ -29,7 +29,7 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://i.ibb.co/7txWYFwF/nexus-xmd.jpg' }, // Image URL from your request
+            image: { url: 'https://files.catbox.moe/d1ofdf.jpg' }, // Image URL from your request
             caption: `
 ╭━〔 *𝐁.𝐌.𝐁-𝐗𝐌𝐃* 〕━┈⊷
 ┃◈╭─────────────·๏
