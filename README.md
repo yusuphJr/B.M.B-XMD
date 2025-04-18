@@ -60,8 +60,6 @@ Dont forget to fork & star repo
   <a href='[https://hanstz-site-vortex-xmd.onrender.com/pair]' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
-  
-  ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/warning.gif?raw=true" width="15"/> 
 
