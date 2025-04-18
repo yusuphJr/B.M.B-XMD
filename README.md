@@ -64,11 +64,6 @@ Dont forget to fork & star repo
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/warning.gif?raw=true" width="15"/> 
-    Connection issues may require VPN activation
-  </p>
-</div>
-
-</div>
 
 <div align="center">
   <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
