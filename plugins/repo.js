@@ -109,9 +109,6 @@ ${readMore}
 \`FORKS:\`🍴
 > ${repoData.forks_count}
 
-\`FOLLOWERS:\`📑
-> ${followData.followers_count}
-
 \`DESCRIPTION:\`📃
 > ${repoData.description || 'No description'}\n
 ──────────────────
