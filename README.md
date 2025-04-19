@@ -31,8 +31,6 @@ Dont forget to fork & star repo
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
-### <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
-  
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <a href='https://github.com/bmbxmd/B.M.B-XMD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPO-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
