@@ -81,3 +81,15 @@ Dont forget to fork & star repo
 <div align="center">
   <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
+
+
+## 🗃️ PROJECT ARCHITECTS
+<div align="center">
+  <a href="https://github.com/bmbxmd">
+    <img src="https://github-readme-stats.vercel.app/api?username=bmbxmd&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+</div>
