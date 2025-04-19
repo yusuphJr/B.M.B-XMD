@@ -45,14 +45,14 @@ Dont forget to fork & star repo
 
 ### <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   > **⚠️ OPTION ONE**
-  <a href='https://bmb-session-plag.onrender.com/pair' target="_blank">
+  <a href='https://bmb-website-deploy.onrender.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='[https://hanstz-site-vortex-xmd.onrender.com/pair]' target="_blank">
+  <a href='https://bmb-website-deploy.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
