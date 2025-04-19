@@ -42,8 +42,6 @@ Dont forget to fork & star repo
 </div>
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-
-### <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   > **⚠️ OPTION ONE**
   <a href='https://bmb-website-deploy.onrender.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
