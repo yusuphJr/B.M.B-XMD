@@ -35,7 +35,7 @@ Dont forget to fork & star repo
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <a href='https://github.com/bmbxmd/B.M.B-XMD/fork' target="_blank">
-    <img src='https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+    <img src='https://img.shields.io/badge/FORK_REPO-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
 
