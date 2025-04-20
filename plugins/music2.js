@@ -60,7 +60,7 @@ cmd({
       + `📌 *Reply with the number to download in your choice.*`;
 
     const sentMsg = await conn.sendMessage(from, {
-      image: { url: ytData.thumbnail || "https://i.ibb.co/3mNR4mKX/nexus-xmd.jpg" },
+      image: { url: ytData.thumbnail || "https://files.catbox.moe/lph7xd.jpg" },
       caption: caption,
       contextInfo: {
         mentionedJid: [m.sender],
@@ -68,7 +68,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363382023564830@newsletter",
-          newsletterName: "𝐁.𝐌.𝐁-𝐗𝐌𝐃",
+          newsletterName: "💥𝐁.𝐌.𝐁-𝐗𝐌𝐃💥",
           serverMessageId: 143
         }
       }
@@ -102,7 +102,7 @@ cmd({
               document: { url: downloadLink },
               mimetype: "video/mp4",
               fileName: `${ytData.title}.mp4`,
-              caption: "*𝐁.𝐌.𝐁-𝐗𝐌𝐃*"
+              caption: "*🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥*"
             }, { quoted: receivedMsg });
             break;
 
