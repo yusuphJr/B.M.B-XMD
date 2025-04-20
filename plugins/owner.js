@@ -3,7 +3,7 @@ const config = require('../config');
 
 cmd({
     pattern: "owner",
-    react: "💢", 
+    react: "🔥", 
     desc: "Get owner number",
     category: "main",
     filename: __filename
@@ -29,9 +29,9 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/d1ofdf.jpg' }, // Image URL from your request
+            image: { url: 'https://files.catbox.moe/s7pzei.jpg' }, // Image URL from your request
             caption: `
-╭━〔 *𝐁.𝐌.𝐁-𝐗𝐌𝐃* 〕━┈⊷
+╭━〔 *🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥* 〕━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -46,7 +46,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: 'NOVA DEVS 😌',
+                    newsletterName: 'BMB DEVS 🔥',
                     serverMessageId: 143
                 }            
             }
