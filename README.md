@@ -16,7 +16,7 @@ Dont forget to fork & star repo
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/hk9t59.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/eru8qg.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 
