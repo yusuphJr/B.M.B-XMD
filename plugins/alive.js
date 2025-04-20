@@ -25,7 +25,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/BY2HCkh/nexus-xmd.jpg` },  
+            image: { url: `https://files.catbox.moe/lph7xd.jpg` },  
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363352087070233@newsletter',
-                    newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃 🥳',
+                    newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥',
                     serverMessageId: 143
                 }
             }
