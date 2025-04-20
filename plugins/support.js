@@ -28,18 +28,18 @@ let dec = `
 
 ⟣──────────────────⟢
 
-> 𝐁.𝐌.𝐁-𝐗𝐌𝐃 
+> 🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥 
 
 ⟣──────────────────⟢
 ${readMore}
-\`CHANNEL🛠️\`
+\ CHANNEL🛠️\
 https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
 
-\`GROUP\` 👥
+\ GROUP\ 👥
 
 https://chat.whatsapp.com/JpIXcc3AndB3d9pdK2Cg1I
 
-\`𝐁.𝐌.𝐁-𝐗𝐌𝐃\` *Dev🧑‍💻*
+\ 𝐁.𝐌.𝐁-𝐗𝐌𝐃\ *Dev🧑‍💻*
 
 wa.me/+255767862457 ?text=Support!
 
@@ -50,7 +50,7 @@ wa.me/+255767862457 ?text=Support!
 await conn.sendMessage(
             from,
             {
-                image: { url: `https://ibb.co/Dg6CwyJS` },
+                image: { url: `https://files.catbox.moe/s7pzei.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -58,7 +58,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '『 𝐁.𝐌.𝐁-𝐗𝐌𝐃 』',
+                        newsletterName: '『 🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥 』',
                         serverMessageId: 143
                     }
                 }
