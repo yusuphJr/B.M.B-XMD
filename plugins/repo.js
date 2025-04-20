@@ -25,7 +25,7 @@ let repo =`
 *|* Follow the B.M.B 🇹🇿TECH 🇹🇿 channel on https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
 *╰──────────────●●►*
 
-> *CREATED BY B.M.B-XMD*
+> *CREATED BY 🔥B.M.B-XMD🔥*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -35,15 +35,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363382023564830@newsletter',
-      newsletterName: "bmb 🇹🇿",
+      newsletterName: "𝙱.𝙼.𝙱-𝚇𝙼𝙳🇹🇿",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'bmb🇹🇿',
+title: '𝙱.𝙼.𝙱-𝚇𝙼𝙳🇹🇿',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/bmbxmd/B.M.B-XMD" ,
-thumbnailUrl: "https://files.catbox.moe/lopmk4.jpg" ,
+thumbnailUrl: "https://files.catbox.moe/lph7xd.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
@@ -65,7 +65,7 @@ cmd({
     pattern: "repo",
     alias: ["repo", "sc", "info"],
     desc: "Fetch information about a GitHub repository.",
-    react: "🎗️",
+    react: "🔥",
     category: "info",
     filename: __filename,
 },
@@ -86,11 +86,11 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 B.M.B-XMD 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
+        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 🔥B.M.B-XMD🔥 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!* 
 
-> *a whatsapp bot that enhance your experience with amazing features,developed by bmb 🇹🇿.*🔥
+> *a whatsapp bot that enhance your experience with amazing features,developed by 𝙱.𝙼.𝙱-𝚇𝙼𝙳🇹🇿.*🔥
 
-*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 B.M.B-𝐗𝐌𝐃🫶* 
+*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 🔥B.M.B-𝐗𝐌𝐃🔥* 
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
@@ -116,7 +116,7 @@ ${readMore}
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/lopmk4.jpg` },
+            image: { url: `https://files.catbox.moe/s7pzei.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
@@ -124,7 +124,7 @@ ${readMore}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: '☇ bmbxmd suppσrt  ⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterName: '☇ bmbxmd suppσrt  ⃪🔥𝆺𝅥',
                     serverMessageId: 143
                 }
             }
@@ -132,7 +132,7 @@ ${readMore}
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/5ho5yu.mp3' },
+            audio: { url: 'https://files.catbox.moe/1uh5pq.mp3' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
