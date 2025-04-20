@@ -9,13 +9,13 @@ cmd({
     alias: "allmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "⚡",
+    react: "🔥",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `
-╭━〔 *𝐁.𝐌.𝐁-𝐗𝐌𝐃* 〕━┈⊷
+╭━〔 *🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥* 〕━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
 ┃★│ Baileys : *Multi Device*
@@ -235,7 +235,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/d1ofdf.jpg` },
+                image: { url: `https://files.catbox.moe/s7pzei.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -243,7 +243,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃 💫',
+                        newsletterName: '💥𝐁.𝐌.𝐁-𝐗𝐌𝐃💥',
                         serverMessageId: 143
                     }
                 }
