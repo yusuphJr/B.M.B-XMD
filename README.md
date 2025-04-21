@@ -49,7 +49,7 @@ Dont forget to fork & star repo
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='https://bmb-website-deploy.onrender.com/' target="_blank">
+  <a href='https://bmb-website-code-generator.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
